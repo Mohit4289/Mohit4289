@@ -1,7 +1,3 @@
-Here’s an updated profile overview that includes a tool or reminder encouraging profile viewers to connect or check out your projects:
-
----
-
 # 👋 Hi there, I’m Mohit Tiwari!
 
 I'm a passionate **Frontend Developer** focused on creating dynamic, visually captivating web applications. With a strong foundation in **React** and **Next.js**, I’m constantly learning and leveraging cutting-edge tools to build responsive and interactive user experiences. My journey is all about merging functionality with creativity, and I'm excited to keep pushing boundaries in frontend development.
