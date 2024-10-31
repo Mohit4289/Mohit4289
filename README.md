@@ -1,47 +1,63 @@
-# 👋 Hi, I'm Mohit Tiwari!
-
-## 🚀 About Me
-
-- 🎓 I'm currently in my 3rd year of a **BSc in IT**.
-- 💻 I'm passionate about **Web Development** and love working with **HTML, CSS, JavaScript, React, Python, Django, and Django REST Framework**.
-- 🔧 I enjoy solving backend challenges with **Python and Django** and building modern frontend designs with **CSS and JavaScript**.
-- 🌱 Currently, I'm learning and practicing **good CSS techniques and modern frontend designs**.
-- 🎯 In the future, I aspire to combine my skills in technology with my interest in **Forensic Psychology**.
-- 📫 Reach me at [srttiwari4289@gmail.com] or connect with me on [LinkedIn](www.linkedin.com/in/mohit-tiwari-1967b32a5).
-
-## 💼 Experience
-
-- Completed a 2-month internship where I developed my skills in **backend development** and **full-stack projects**.
-- Currently working on projects related to **Safety and Security**, ensuring a safe experience for users.
-- Exploring new technologies and constantly learning to grow in both frontend and backend domains.
-
-## 💡 Interests & Goals
-
-- 💡 I'm fascinated by **frontend development** and aspire to become a proficient frontend developer.
-- 👨‍💻 I love experimenting with **JavaScript** to build interactive UI components.
-- 🌟 I'm interested in building a career in both **technology** and **forensic psychology**.
-
-## 🛠️ Tech Stack
-
-- **Languages**: Python, JavaScript, HTML, CSS
-- **Frameworks/Libraries**: Django, React, Node.js
-- **Tools**: Git, GitHub, VS Code
-- **Databases**: MySQL, SQLite
-- **Other Skills**: REST APIs, Responsive Web Design, UI/UX Design
-
-## 📊 GitHub Stats
-
-![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohit4289&show_icons=true&theme=dark)
-
-## ✨ Projects
-
-- **Safety Secure App**: A platform to hire safety escorts and ensure secure experiences for customers.
-- **Event Management System**: An event management platform using a custom user model for organizers and participants.
-
-## 📈 Fun Fact
-
-- I’m currently practicing **CSS hover effects**, and I enjoy working with **modern, clean UI designs** that stand out with **vivid color schemes**.
+Here’s an updated profile overview that includes a tool or reminder encouraging profile viewers to connect or check out your projects:
 
 ---
 
-🌱 *I’m open to collaborating on interesting projects and opportunities! Feel free to reach out!*
+# 👋 Hi there, I’m Mohit Tiwari!
+
+I'm a passionate **Frontend Developer** focused on creating dynamic, visually captivating web applications. With a strong foundation in **React** and **Next.js**, I’m constantly learning and leveraging cutting-edge tools to build responsive and interactive user experiences. My journey is all about merging functionality with creativity, and I'm excited to keep pushing boundaries in frontend development.
+
+---
+
+### 🚀 About Me
+
+- 🎓 **BSc in IT** Student | Constantly honing my skills and diving into modern web technologies.
+- 🎨 **Frontend Enthusiast** | Experienced in **React**, **Next.js**, and **Tailwind CSS** to create clean, responsive designs that engage users.
+- 🛠️ **Tools** | Skilled in **React Spring** and **GSAP** to bring dynamic animations to my projects, adding depth and interactivity to each design.
+
+---
+
+### 🌟 Featured Projects
+
+1. **🌐 Full Stack Portfolio Website**
+   - **Frontend**: Built with **Next.js** and **React Spring** for a smooth, animated user experience, utilizing **GSAP** for unique transitions and effects to showcase my skills.
+
+2. **📊 Expenses Tracker**
+   - **Frontend**: Developed with **React** and **Tailwind CSS**, featuring a clean, modern interface that provides a seamless experience on all devices.
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages**: JavaScript, HTML, CSS
+- **Frontend**: React, Next.js, Tailwind CSS
+- **Tools & Libraries**: React Spring, GSAP, Three.js, Axios
+- **Design Focus**: Specializing in dark themes with vibrant accents, interactive animations, and responsive layouts.
+
+---
+
+### 📈 Currently Learning & Improving
+
+- **Advanced UI Animations** | Leveraging **GSAP** and **React Spring** to create engaging, smooth animations for immersive frontend experiences.
+- **Mastering Next.js** | Building scalable, interactive UIs and implementing responsive designs to elevate the user experience.
+- **Deepening Design Knowledge** | Continuously refining my design skills to craft visually appealing and intuitive interfaces.
+
+---
+
+### 👀 Profile Insights
+
+- 🔥 **Profile Views**: 200+ (thanks for checking out my profile!)
+- 🌟 **GitHub Stars**: Positive feedback from the community, helping me grow with each project.
+
+---
+
+### ⚙️ Interested? Let’s Connect!
+
+💡 **If you’re here exploring my work, why not check out some projects or drop me a message?** I’m always eager to connect, collaborate, and share insights with fellow developers. 
+
+- 📧 **Email**: [srttiwari4289@gmail.com](mailto:srttiwari4289@gmail.com)
+- 💼 **LinkedIn**: [Mohit Tiwari](https://www.linkedin.com/in/mohit-tiwari-1967b32a5)
+- 🌐 **Portfolio**: Coming soon—stay tuned!
+
+---
+
+Let's create exceptional web experiences together!
