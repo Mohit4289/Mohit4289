@@ -23,44 +23,8 @@ I'm a passionate **Frontend Developer** focused on creating dynamic, visually ca
 ---
 
 ### 🛠️ Languages and Tools
-To make sure the logos look good on a black background, I've updated your "Languages and Tools" section to include icons with white backgrounds where possible. This ensures the icons stand out against the black page background. Here’s the updated version:
 
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
-  </a> 
-</p>
+I'm proficient in JavaScript, React, Tailwind CSS, Node.js, and Python. I use React Spring and GSAP to add dynamic animations, creating a more engaging and interactive user experience. Additionally, I have experience with Next.js for building responsive and scalable web applications.
 
 ---
 
