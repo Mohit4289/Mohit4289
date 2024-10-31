@@ -73,7 +73,8 @@ To make sure the logos look good on a black background, I've updated your "Langu
 ---
 
 ### 👀 Profile Insights
-![GitHub Views](https://komarev.com/ghpvc/?username=Mohit4289)
+
+ <a href="https://u8views.com/github/Mohit4289"><img src="https://u8views.com/api/v1/github/profiles/168074292/views/day-week-month-total-count.svg"></a>
 
 - 🔥 **Profile Views**: 200+ (thanks for checking out my profile!)
 - 🌟 **GitHub Stars**: Positive feedback from the community, helping me grow with each project.
