@@ -51,7 +51,7 @@ I'm proficient in JavaScript, React, Tailwind CSS, Node.js, and Python. I use Re
 
 - 📧 **Email**: [srttiwari4289@gmail.com](mailto:srttiwari4289@gmail.com)
 - 💼 **LinkedIn**: [Mohit Tiwari](https://www.linkedin.com/in/mohit-tiwari-1967b32a5)
-- 🌐 **Portfolio**: Coming soon—stay tuned!
+- 🌐 **Portfolio**: https://protfolio-template-eta.vercel.app/
 
 ---
 
