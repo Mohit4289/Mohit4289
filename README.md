@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Mohit Tiwari
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mohit4289/Mohit4289/main/assets/anime-header.gif" alt="Anime Header" width="800">
+  <img src="https://raw.githubusercontent.com/Mohit4289/Mohit4289/main/assets/zoro1.jpg" alt="Anime Header" width="800">
 </div>
 
 **Full-Stack Developer | Go & JavaScript | Anime-coded brain 🧠⚡**
