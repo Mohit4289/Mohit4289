@@ -125,5 +125,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmd0MG9hNDlvamtxdjlxcDd5eXFweGdiNm14aWJjb3l5Nmp4aHpvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jnAP1hq3Vr2vADLWtx/giphy.gif" alt="Anime Footer GIF" style="border-radius: 15px; width: 80%; max-width: 600px;" />
 </div>
