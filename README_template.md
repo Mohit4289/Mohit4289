@@ -15,7 +15,7 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R3eXlyZXh6Z3R3eXlyZXh6Z3R3eXlyZXh6Z3R3eXlyZXh6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L26NV9H4T9OQo/giphy.gif" width="100%" alt="Levi energy" style="border-radius: 10px;"/>
+      <img src="https://raw.githubusercontent.com/Mohit4289/Mohit4289/main/assets/levi-aesthetic.gif" width="100%" alt="Levi energy" style="border-radius: 10px;"/>
       <br/>
       <i>"If you don't take risks, you can't create a future." — Luffy</i>
     </td>
@@ -26,7 +26,7 @@
         <li>🚀 Currently Crafting as a <b>Software Developer</b></li>
         <li>🧠 Strong in <b>Go (Gin) & Node.js</b></li>
         <li>🎨 <b>Next.js & React</b> Enthusiast</li>
-        <li>� <b>Levi Energy:</b> Discipline, Focus & Performance</li>
+        <li>🎯 <b>Levi Energy:</b> Discipline, Focus & Performance</li>
       </ul>
     </td>
   </tr>
@@ -51,7 +51,7 @@
 
 ---
 
-## � Performance Metrics
+## 📊 Performance Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohit4289&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
@@ -78,15 +78,15 @@
 
 | Project | Battle Kit | Status |
 | :--- | :---: | :---: |
-| **[Portfolio Website](https://protfolio-template-eta.vercel.app/)** | Next.js, React Spring, GSAP | � Live |
+| **[Portfolio Website](https://protfolio-template-eta.vercel.app/)** | Next.js, React Spring, GSAP | 🚀 Live |
 | **Expenses Tracker** | React, Tailwind CSS | ✅ Ready |
-| **Clean APIs** | Go, Gin, REST APIs | ⚡ Optimized |
+| **Go Profile Server** | Go, Gin, REST APIs | ⚡ Optimized |
 
 </div>
 
 ---
 
-## � Activity Pulse
+## 📈 Activity Pulse
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit4289&theme=tokyo-night&hide_border=true&area=true" alt="Graph" />
