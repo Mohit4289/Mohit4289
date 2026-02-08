@@ -1,11 +1,11 @@
 # 👋 Hey, I'm Mohit Tiwari
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=300&section=header&text=Mohit%20Tiwari&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Go%20|%20JavaScript&descSize=20&descAlignY=55" alt="Header" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Architecting%20the%20Digital%20Future&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20|%20Go%20|%20Cloud%20Native&descSize=20&descAlignY=55" alt="Header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;Go+%26+JavaScript+Expert;Anime-coded+Brain+%F0%9F%A7%A0%E2%9A%A1;Turning+Coffee+into+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=4ECDC4&center=true&vCenter=true&width=700&lines=Crafting+Scalable+Backend+Systems;Modern+Web+Architecture+Specialist;Go+Developer+%26+Cloud+Native+Enthusiast;Translating+Complex+Ideas+into+Clean+Code" alt="Typing SVG" />
 </div>
 
 ---
