@@ -15,9 +15,7 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="https://www.youtube.com/watch?v=kYv9v20Gf_A">
-        <img src="https://img.youtube.com/vi/kYv9v20Gf_A/0.jpg" width="100%" alt="Roronoa Zoro - Nothing Happened" style="border-radius: 10px;"/>
-      </a>
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2NpNzl4dTlydDRwZ2Jod2Iza3hhbDVlN2hnMDA3YjRoNjJ4bHV2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hP9gy6aTMyle7e5pbS/giphy.gif" width="100%" alt="Anime GIF" style="border-radius: 10px;"/>
       <br/>
       <i>"Nothing happened." — Roronoa Zoro</i>
     </td>
