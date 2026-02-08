@@ -1,58 +1,154 @@
-# 👋 Hi there, I’m Mohit Tiwari!
+# 👋 Hey, I'm Mohit Tiwari
 
-I'm a passionate **Frontend Developer** focused on creating dynamic, visually captivating web applications. With a strong foundation in **React** and **Next.js**, I’m constantly learning and leveraging cutting-edge tools to build responsive and interactive user experiences. My journey is all about merging functionality with creativity, and I'm excited to keep pushing boundaries in frontend development.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mohit4289/Mohit4289/main/assets/anime-header.gif" alt="Anime Header" width="800">
+</div>
 
----
+**Full-Stack Developer | Go & JavaScript | Anime-coded brain 🧠⚡**
 
-### 🚀 About Me
-
-- 🎓 **BSc in IT** Student | Constantly honing my skills and diving into modern web technologies.
-- 🎨 **Frontend Enthusiast** | Experienced in **React**, **Next.js**, and **Tailwind CSS** to create clean, responsive designs that engage users.
-- 🛠️ **Tools** | Skilled in **React Spring** and **GSAP** to bring dynamic animations to my projects, adding depth and interactivity to each design.
+Building fast, clean, and scalable web apps — one commit at a time.
 
 ---
 
-### 🌟 Featured Projects
+## 🧑‍💻 About Me
 
-1. **🌐 Full Stack Portfolio Website**
-   - **Frontend**: Built with **Next.js** and **React Spring** for a smooth, animated user experience, utilizing **GSAP** for unique transitions and effects to showcase my skills.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mohit4289/Mohit4289/main/assets/anime-avatar.png" alt="Anime Avatar" width="150" style="border-radius: 50%;">
+</div>
 
-2. **📊 Expenses Tracker**
-   - **Frontend**: Developed with **React** and **Tailwind CSS**, featuring a clean, modern interface that provides a seamless experience on all devices.
-
----
-
-### 🛠️ Languages and Tools
-
-I'm proficient in JavaScript, React, Tailwind CSS, Node.js, and Python. I use React Spring and GSAP to add dynamic animations, creating a more engaging and interactive user experience. Additionally, I have experience with Next.js for building responsive and scalable web applications.
+- 💼 **2+ years** of experience in full-stack development
+- 🚀 Currently working as a **Software Developer**
+- 🧠 Strong in **Backend (Go, Node.js)** & **Frontend (Next.js, React)**
+- � Love **clean architecture, performance & modern UI**
+- 🌌 Anime fan — discipline, focus & grind mindset (Levi energy)
 
 ---
 
-### 📈 Currently Learning & Improving
+## ⚔️ Tech Stack (Battle Gear)
 
-- **Advanced UI Animations** | Leveraging **GSAP** and **React Spring** to create engaging, smooth animations for immersive frontend experiences.
-- **Mastering Next.js** | Building scalable, interactive UIs and implementing responsive designs to elevate the user experience.
-- **Deepening Design Knowledge** | Continuously refining my design skills to craft visually appealing and intuitive interfaces.
+### Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,bootstrap,redux,zustand" alt="Frontend Skills">
+</div>
+
+### Backend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go,nodejs,express" alt="Backend Skills">
+</div>
+
+### Database & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,redis,git,docker,postman,vercel" alt="Database & Tools">
+</div>
 
 ---
 
-### 👀 Profile Insights
+## 💙 What I Prefer Working With
 
- <a href="https://u8views.com/github/Mohit4289"><img src="https://u8views.com/api/v1/github/profiles/168074292/views/day-week-month-total-count.svg"></a>
+**Go · Next.js · Tailwind · Node.js · Git · Clean APIs**
+
+---
+
+## 🌀 Anime Mode: ON
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mohit4289/Mohit4289/main/assets/anime-mode.gif" alt="Anime Mode" width="400">
+</div>
+
+> *"If you don't take risks, you can't create a future."*
+> — **Monkey D. Luffy**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohit4289&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit4289&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit4289&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohit4289&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+### 🚀 Go GitHub Profile Server
+- **Tech Stack**: Go, Gin, REST APIs
+- **Features**: Real-time GitHub data fetching, RSS feeds, caching
+- **Status**: ⚡ Active Development
+
+### 🌐 Full Stack Portfolio Website
+- **Frontend**: Next.js, React Spring, GSAP animations
+- **Features**: Smooth animations, modern UI, responsive design
+- **Live**: [Portfolio Demo](https://protfolio-template-eta.vercel.app/)
+
+### 📊 Expenses Tracker
+- **Frontend**: React, Tailwind CSS
+- **Features**: Clean interface, device-responsive
+- **Status**: ✅ Completed
+
+---
+
+## 🔥 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit4289&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph">
+</div>
+
+---
+
+## � Profile Insights
+
+<div align="center">
+  <a href="https://u8views.com/github/Mohit4289">
+    <img src="https://u8views.com/api/v1/github/profiles/168074292/views/day-week-month-total-count.svg">
+  </a>
+</div>
 
 - 🔥 **Profile Views**: 200+ (thanks for checking out my profile!)
-- 🌟 **GitHub Stars**: Positive feedback from the community, helping me grow with each project.
+- 🌟 **GitHub Stars**: Positive feedback from the community
+- 🚀 **Total Commits**: Grinding every day!
 
 ---
 
-### ⚙️ Interested? Let’s Connect!
+## 📫 Let's Connect!
 
-💡 **If you’re here exploring my work, why not check out some projects or drop me a message?** I’m always eager to connect, collaborate, and share insights with fellow developers. 
-
-- 📧 **Email**: [srttiwari4289@gmail.com](mailto:srttiwari4289@gmail.com)
-- 💼 **LinkedIn**: [Mohit Tiwari](https://www.linkedin.com/in/mohit-tiwari-1967b32a5)
-- 🌐 **Portfolio**: https://protfolio-template-eta.vercel.app/
+<div align="center">
+  <a href="mailto:srttiwari4289@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/mohit-tiwari-1967b32a5">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://protfolio-template-eta.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://github.com/Mohit4289">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</div>
 
 ---
 
-Let’s create exceptional web experiences together!
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mohit4289/Mohit4289/main/assets/anime-footer.gif" alt="Anime Footer" width="600">
+</div>
+
+<div align="center">
+  <i>"Code with discipline, ship with confidence, level up like your favorite anime hero!"</i>
+</div>
+
+---
+
+*⚡ Thanks for visiting! Let's build something amazing together!*
