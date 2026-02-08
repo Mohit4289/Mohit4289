@@ -62,10 +62,23 @@
 
 ---
 
-## 🏆 Arena Achievements
+## 💼 My Work
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohit4289&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+
+### 🌍 Carboledger - Carbon Management Platform
+
+**Live Project:** [www.carboledger.com](https://www.carboledger.com/)
+
+A comprehensive carbon footprint tracking and management platform designed to help businesses monitor, analyze, and reduce their environmental impact.
+
+| Feature | Technology | Impact |
+| :--- | :---: | :---: |
+| **Carbon Analytics** | Full-Stack Development | 🌱 Real-time Emissions Tracking |
+| **Dashboard & Reports** | React, Node.js | 📊 Data Visualization |
+| **API Integration** | REST APIs | 🔗 Third-party Connectivity |
+| **Performance Optimization** | Database Design | ⚡ Scalable Architecture |
+
 </div>
 
 ---
