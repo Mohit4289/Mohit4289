@@ -15,9 +15,11 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R3eXlyZXh6Z3R3eXlyZXh6Z3R3eXlyZXh6Z3R3eXlyZXh6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L26NV9H4T9OQo/giphy.gif" width="100%" alt="Levi energy" style="border-radius: 10px;"/>
+      <a href="https://www.youtube.com/watch?v=kYv9v20Gf_A">
+        <img src="https://img.youtube.com/vi/kYv9v20Gf_A/0.jpg" width="100%" alt="Roronoa Zoro - Nothing Happened" style="border-radius: 10px;"/>
+      </a>
       <br/>
-      <i>"If you don't take risks, you can't create a future." — Luffy</i>
+      <i>"Nothing happened." — Roronoa Zoro</i>
     </td>
     <td width="50%" style="vertical-align: top; padding-left: 20px;">
       <h3>⚡ Quick Bio</h3>
