@@ -1,10 +1,6 @@
 # 👋 Hey, I'm Mohit Tiwari
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Architecting%20the%20Digital%20Future&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20|%20Go%20|%20Cloud%20Native&descSize=20&descAlignY=55" alt="Header" />
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=4ECDC4&center=true&vCenter=true&width=700&lines=Crafting+Scalable+Backend+Systems;Modern+Web+Architecture+Specialist;Go+Developer+%26+Cloud+Native+Enthusiast;Translating+Complex+Ideas+into+Clean+Code" alt="Typing SVG" />
 </div>
 
@@ -28,7 +24,7 @@
     </td>
     <td width="10%"></td>
     <td width="45%" style="padding: 20px; vertical-align: top;">
-      <div style="background: rgba(26, 26, 46, 0.9); backdrop-filter: blur(10px); border: 2px solid #4ECDC4; border-radius: 15px; padding: 25px; box-shadow: 0 8px 32px rgba(78, 205, 196, 0.3);">
+      <div style="background: rgba(26, 26, 46, 0.9); backdrop-filter: blur(10px); border-radius: 15px; padding: 25px; box-shadow: 0 8px 32px rgba(78, 205, 196, 0.3);">
         <h3 style="color: #4ECDC4; margin-bottom: 20px; font-size: 20px;">⚡ Quick Bio</h3>
         <ul style="list-style: none; padding: 0; margin: 0;">
           <li style="color: white; margin-bottom: 12px;">💼 <b>2+ Years</b> of Professional Experience</li>
@@ -50,7 +46,7 @@
 
 <div align="center">
 
-<div style="background: rgba(26, 26, 46, 0.9); backdrop-filter: blur(10px); border: 2px solid #4ECDC4; border-radius: 15px; padding: 30px; margin: 20px 0; box-shadow: 0 8px 32px rgba(78, 205, 196, 0.3);">
+<div style="background: rgba(26, 26, 46, 0.9); backdrop-filter: blur(10px); border-radius: 15px; padding: 30px; margin: 20px 0; box-shadow: 0 8px 32px rgba(78, 205, 196, 0.3);">
   
   <h3 style="color: #4ECDC4; margin-bottom: 20px;">🌐 Frontend</h3>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux,zustand" alt="Frontend" />
@@ -72,15 +68,15 @@
 <div align="center">
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
-  <div style="background: rgba(26, 26, 46, 0.9); backdrop-filter: blur(10px); border: 2px solid #4ECDC4; border-radius: 15px; padding: 20px; box-shadow: 0 8px 32px rgba(78, 205, 196, 0.3);">
+  <div style="background: rgba(26, 26, 46, 0.9); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; box-shadow: 0 8px 32px rgba(78, 205, 196, 0.3);">
     <img src="https://github-readme-stats.vercel.app/api?username=Mohit4289&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
   </div>
-  <div style="background: rgba(26, 26, 46, 0.9); backdrop-filter: blur(10px); border: 2px solid #4ECDC4; border-radius: 15px; padding: 20px; box-shadow: 0 8px 32px rgba(78, 205, 196, 0.3);">
+  <div style="background: rgba(26, 26, 46, 0.9); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; box-shadow: 0 8px 32px rgba(78, 205, 196, 0.3);">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit4289&theme=tokyonight&hide_border=true" alt="Streak" />
   </div>
 </div>
 
-<div style="background: rgba(26, 26, 46, 0.9); backdrop-filter: blur(10px); border: 2px solid #4ECDC4; border-radius: 15px; padding: 20px; margin: 20px 0; box-shadow: 0 8px 32px rgba(78, 205, 196, 0.3);">
+<div style="background: rgba(26, 26, 46, 0.9); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; margin: 20px 0; box-shadow: 0 8px 32px rgba(78, 205, 196, 0.3);">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit4289&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Langs" />
 </div>
 
@@ -92,18 +88,18 @@
 
 <div align="center">
 
-<div style="background: rgba(26, 26, 46, 0.9); backdrop-filter: blur(10px); border: 2px solid #4ECDC4; border-radius: 15px; padding: 30px; margin: 20px 0; box-shadow: 0 8px 32px rgba(78, 205, 196, 0.3);">
+<div style="background: rgba(26, 26, 46, 0.9); backdrop-filter: blur(10px); border-radius: 15px; padding: 30px; margin: 20px 0; box-shadow: 0 8px 32px rgba(78, 205, 196, 0.3);">
 
 <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
   <thead>
-    <tr style="border-bottom: 2px solid #4ECDC4;">
+    <tr style="border-bottom: none;">
       <th style="color: #4ECDC4; padding: 15px; text-align: left; font-size: 16px;">Project</th>
       <th style="color: #4ECDC4; padding: 15px; text-align: center; font-size: 16px;">Battle Kit</th>
       <th style="color: #4ECDC4; padding: 15px; text-align: center; font-size: 16px;">Status</th>
     </tr>
   </thead>
   <tbody>
-    <tr style="border-bottom: 1px solid rgba(78, 205, 196, 0.3);">
+    <tr style="border-bottom: none;">
       <td style="color: white; padding: 15px;">
         <a href="https://protfolio-template-eta.vercel.app/" style="color: #4ECDC4; text-decoration: none; font-weight: bold;">
           Portfolio Website
@@ -112,7 +108,7 @@
       <td style="color: white; padding: 15px; text-align: center;">Next.js, React Spring, GSAP</td>
       <td style="color: #4ECDC4; padding: 15px; text-align: center;">🚀 Live</td>
     </tr>
-    <tr style="border-bottom: 1px solid rgba(78, 205, 196, 0.3);">
+    <tr style="border-bottom: none;">
       <td style="color: white; padding: 15px; font-weight: bold;">Expenses Tracker</td>
       <td style="color: white; padding: 15px; text-align: center;">React, Tailwind CSS</td>
       <td style="color: #4ECDC4; padding: 15px; text-align: center;">✅ Ready</td>
@@ -135,7 +131,7 @@
 
 <div align="center">
 
-<div style="background: rgba(26, 26, 46, 0.9); backdrop-filter: blur(10px); border: 2px solid #4ECDC4; border-radius: 15px; padding: 30px; margin: 20px 0; box-shadow: 0 8px 32px rgba(78, 205, 196, 0.3);">
+<div style="background: rgba(26, 26, 46, 0.9); backdrop-filter: blur(10px); border-radius: 15px; padding: 30px; margin: 20px 0; box-shadow: 0 8px 32px rgba(78, 205, 196, 0.3);">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit4289&theme=tokyo-night&hide_border=true&area=true" alt="Graph" />
 </div>
 
@@ -147,7 +143,7 @@
 
 <div align="center">
 
-<div style="background: rgba(26, 26, 46, 0.9); backdrop-filter: blur(10px); border: 2px solid #4ECDC4; border-radius: 15px; padding: 30px; margin: 20px 0; box-shadow: 0 8px 32px rgba(78, 205, 196, 0.3);">
+<div style="background: rgba(26, 26, 46, 0.9); backdrop-filter: blur(10px); border-radius: 15px; padding: 30px; margin: 20px 0; box-shadow: 0 8px 32px rgba(78, 205, 196, 0.3);">
   
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
     <a href="mailto:srttiwari4289@gmail.com">
