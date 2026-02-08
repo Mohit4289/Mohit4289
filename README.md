@@ -84,49 +84,6 @@
 
 ---
 
-## 🌟 Featured Operations
-
-<div align="center">
-
-<div style="background: rgba(26, 26, 46, 0.9); backdrop-filter: blur(10px); border-radius: 15px; padding: 30px; margin: 20px 0; box-shadow: 0 8px 32px rgba(78, 205, 196, 0.3);">
-
-<table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
-  <thead>
-    <tr style="border-bottom: none;">
-      <th style="color: #4ECDC4; padding: 15px; text-align: left; font-size: 16px;">Project</th>
-      <th style="color: #4ECDC4; padding: 15px; text-align: center; font-size: 16px;">Battle Kit</th>
-      <th style="color: #4ECDC4; padding: 15px; text-align: center; font-size: 16px;">Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="border-bottom: none;">
-      <td style="color: white; padding: 15px;">
-        <a href="https://protfolio-template-eta.vercel.app/" style="color: #4ECDC4; text-decoration: none; font-weight: bold;">
-          Portfolio Website
-        </a>
-      </td>
-      <td style="color: white; padding: 15px; text-align: center;">Next.js, React Spring, GSAP</td>
-      <td style="color: #4ECDC4; padding: 15px; text-align: center;">🚀 Live</td>
-    </tr>
-    <tr style="border-bottom: none;">
-      <td style="color: white; padding: 15px; font-weight: bold;">Expenses Tracker</td>
-      <td style="color: white; padding: 15px; text-align: center;">React, Tailwind CSS</td>
-      <td style="color: #4ECDC4; padding: 15px; text-align: center;">✅ Ready</td>
-    </tr>
-    <tr>
-      <td style="color: white; padding: 15px; font-weight: bold;">Clean APIs</td>
-      <td style="color: white; padding: 15px; text-align: center;">Go, Gin, REST APIs</td>
-      <td style="color: #4ECDC4; padding: 15px; text-align: center;">⚡ Optimized</td>
-    </tr>
-  </tbody>
-</table>
-
-</div>
-
-</div>
-
----
-
 ## 📈 Activity Pulse
 
 <div align="center">
