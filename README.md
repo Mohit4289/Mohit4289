@@ -8,6 +8,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=Mohit4289&label=Profile%20Views&color=1F6FEB&style=for-the-badge" alt="Profile Views" />
 
+[Bio](#-the-path-of-the-sword-a-developers-reckoning) • [Stack](#-the-arsenal-battle-gear) • [Project](#-featured-project) • [Trophies](#-trophy-case) • [Stats](#-performance-badges) • [Connect](#-forge-connections)
+
 ---
 
 ### ⚔️ THE PATH OF THE SWORD: A DEVELOPER'S RECKONING
@@ -21,11 +23,11 @@
 
 ⚡ **Quick Bio**
 
-- 🌱 2+ Years Professional Experience
-- 💻 Currently building high-performance web apps
-- ☁️ Working heavily with **Go, Python, and React**
-- ⚙️ Navigating Linux environments & DevOps
-- 🎯 Goal: Constantly learning and leveling up
+- 💼 **Senior Frontend Engineer** @ Astroverse (Remote)
+- 🚀 Built **CarboLedger**, an enterprise SaaS saving clients **$300k/yr**
+- 🧠 Strong in **Go, TypeScript, React/Next.js & Node.js**
+- ☁️ **AWS, Docker & Kubernetes** — cut deploy time by 65% with CI/CD
+- 🎓 BSc IT @ Mumbai University (CGPA 8.4/10) · 5+ freelance projects shipped
 
 </td>
   </tr>
@@ -49,9 +51,29 @@
 
 ---
 
+### 🚀 FEATURED PROJECT
+
+<a href="https://www.carboledger.com/"><h3>CarboLedger — Enterprise SaaS Platform</h3></a>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white" />
+</p>
+
+- 📨 Integrated **HubSpot CRM** & **SendInBlue** email APIs for lead generation and customer communication
+- 💰 Contributed to a solution saving clients **$300k annually** and cutting manual compliance work by **80%**
+- 🔐 Implemented secure API routes with validation, rate limiting, and error handling
+- ⚡ Optimized performance with lazy loading, code splitting, and Zustand state management
+
+<p align="center"><a href="https://www.carboledger.com/">🔗 View Live Project</a></p>
+
+---
+
 ### 🏆 TROPHY CASE
 
-<img src="https://github-trophies.vercel.app/?username=Mohit4289&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+<img src="https://github-trophies.vercel.app/?username=Mohit4289&theme=tokyonight&no-frame=true&title=Commits,Repositories,MultiLanguage,LongTimeUser,Followers,Stars" alt="Trophies" />
 
 ---
 
