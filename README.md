@@ -1,129 +1,92 @@
+<div align="center">
+
 # 👋 Hey, I'm Mohit Tiwari
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=4ECDC4&center=true&vCenter=true&width=700&lines=Crafting+Scalable+Backend+Systems;Modern+Web+Architecture+Specialist;Go+Developer+%26+Cloud+Native+Enthusiast;Translating+Complex+Ideas+into+Clean+Code" alt="Typing SVG" />
-</div>
+### **Senior Frontend Engineer & Cloud Native Enthusiast**
 
 ---
 
-## 🧑‍💻 The Profile
+### ⚔️ THE PATH OF THE SWORD: A DEVELOPER'S RECKONING
 
-<div align="center">
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table align="center">
   <tr>
-    <td align="center" width="45%" style="padding: 20px;">
-      <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 20px; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2NpNzl4dTlydDRwZ2Jod2Iza3hhbDVlN2hnMDA3YjRoNjJ4bHV2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hP9gy6aTMyle7e5pbS/giphy.gif" width="100%" alt="Anime GIF" style="border-radius: 10px;"/>
-        <br/>
-        <br/>
-        <p style="color: white; font-style: italic; font-size: 14px; margin: 0;">
-          "Nothing happened." — Roronoa Zoro
-        </p>
-      </div>
+    <td align="center" width="50%">
+      <img src="assets/zoro1.jpg" alt="Anime Art" width="100%" />
     </td>
-    <td width="10%"></td>
-    <td width="45%" style="padding: 20px; vertical-align: top;">
-      <div style="background: rgba(26, 26, 46, 0.9); backdrop-filter: blur(10px); border-radius: 15px; padding: 25px; box-shadow: 0 8px 32px rgba(78, 205, 196, 0.3);">
-        <h3 style="color: #4ECDC4; margin-bottom: 20px; font-size: 20px;">⚡ Quick Bio</h3>
-        <ul style="list-style: none; padding: 0; margin: 0;">
-          <li style="color: white; margin-bottom: 12px;">💼 <b>2+ Years</b> of Professional Experience</li>
-          <li style="color: white; margin-bottom: 12px;">🚀 Currently Crafting as a <b>Software Developer</b></li>
-          <li style="color: white; margin-bottom: 12px;">🧠 Strong in <b>Go (Gin) & Node.js</b></li>
-          <li style="color: white; margin-bottom: 12px;">🎨 <b>Next.js & React</b> Enthusiast</li>
-          <li style="color: white; margin-bottom: 12px;">🎯 <b>Levi Energy:</b> Discipline, Focus & Performance</li>
-        </ul>
-      </div>
+    <td width="50%">
+      <h3>⚡ Quick Bio</h3>
+      <ul>
+        <li>💼 <strong>Senior Frontend Engineer</strong> @ Astroverse (Remote)</li>
+        <li>🚀 Built <strong>CarboLedger</strong>, an enterprise SaaS saving clients <strong>$300k/yr</strong></li>
+        <li>🧠 Strong in <strong>Go, TypeScript, React/Next.js & Node.js</strong></li>
+        <li>☁️ <strong>AWS, Docker & Kubernetes</strong> — cut deploy time by 65% with CI/CD</li>
+        <li>🎓 BSc IT @ Mumbai University (CGPA 8.4/10) · 5+ freelance projects shipped</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-</div>
+---
+
+### 🛠️ THE ARSENAL: BATTLE GEAR
+
+**Frontend**<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
+</a>
+
+**Backend**<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=go,nodejs,express,graphql,postgres,mongodb,redis" />
+</a>
+
+**Tools & DevOps**<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,aws,githubactions" />
+</a>
 
 ---
 
-## ⚔️ Tech Stack (Battle Gear)
+### 📊 PERFORMANCE BADGES
 
-<div align="center">
-
-<div style="background: rgba(26, 26, 46, 0.9); backdrop-filter: blur(10px); border-radius: 15px; padding: 30px; margin: 20px 0; box-shadow: 0 8px 32px rgba(78, 205, 196, 0.3);">
-  
-  <h3 style="color: #4ECDC4; margin-bottom: 20px;">🌐 Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux,zustand" alt="Frontend" />
-  
-  <h3 style="color: #4ECDC4; margin: 30px 0 20px;">⚙️ Backend</h3>
-  <img src="https://skillicons.dev/icons?i=go,nodejs,express,mysql,redis" alt="Backend" />
-  
-  <h3 style="color: #4ECDC4; margin: 30px 0 20px;">🛠️ Tools & DevOps</h3>
-  <img src="https://skillicons.dev/icons?i=git,docker,postman,vercel,figma" alt="Tools" />
-
-</div>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohit4289&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Mohit's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit4289&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
-## 📊 Performance Metrics
+### 📈 CONTRIBUTION PULSE
 
-<div align="center">
-
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
-  <div style="background: rgba(26, 26, 46, 0.9); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; box-shadow: 0 8px 32px rgba(78, 205, 196, 0.3);">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mohit4289&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
-  </div>
-  <div style="background: rgba(26, 26, 46, 0.9); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; box-shadow: 0 8px 32px rgba(78, 205, 196, 0.3);">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit4289&theme=tokyonight&hide_border=true" alt="Streak" />
-  </div>
-</div>
-
-<div style="background: rgba(26, 26, 46, 0.9); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; margin: 20px 0; box-shadow: 0 8px 32px rgba(78, 205, 196, 0.3);">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit4289&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Langs" />
-</div>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit4289&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
 
 ---
 
-## 📈 Activity Pulse
+### 🤝 FORGE CONNECTIONS
 
-<div align="center">
+*"We don't do 'discipline' around here, we call it a 'grind'"*
 
-<div style="background: rgba(26, 26, 46, 0.9); backdrop-filter: blur(10px); border-radius: 15px; padding: 30px; margin: 20px 0; box-shadow: 0 8px 32px rgba(78, 205, 196, 0.3);">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit4289&theme=tokyo-night&hide_border=true&area=true" alt="Graph" />
-</div>
+<br>
 
-</div>
+<p align="center">
+  <a href="mailto:mohitiwari53@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohitiwari03/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://mohit-s-protfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://leetcode.com/u/HardCoder404/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
 
----
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmd0MG9hNDlvamtxdjlxcDd5eXFweGdiNm14aWJjb3l5Nmp4aHpvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jnAP1hq3Vr2vADLWtx/giphy.gif" width="400" />
+</p>
 
-## 📫 Recruitment & Connection
-
-<div align="center">
-
-<div style="background: rgba(26, 26, 46, 0.9); backdrop-filter: blur(10px); border-radius: 15px; padding: 30px; margin: 20px 0; box-shadow: 0 8px 32px rgba(78, 205, 196, 0.3);">
-  
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
-    <a href="mailto:srttiwari4289@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/mohit-tiwari-1967b32a5">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://github.com/Mohit4289">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </div>
-
-  <p style="color: white; font-style: italic; margin: 20px 0;">
-    "Code with discipline, ship with confidence, level up like a legend."
-  </p>
-
-</div>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmd0MG9hNDlvamtxdjlxcDd5eXFweGdiNm14aWJjb3l5Nmp4aHpvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jnAP1hq3Vr2vADLWtx/giphy.gif" alt="Anime Footer GIF" style="border-radius: 15px; width: 80%; max-width: 600px;" />
 </div>
