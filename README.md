@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Mohit%20Tiwari&fontSize=48&fontColor=FFFFFF&animation=fadeIn&desc=Full-Stack%20Developer%20%26%20Cloud%20Native%20Enthusiast&descAlignY=75&descSize=20" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=180&section=header" width="100%" alt="Header" />
+
+# 👋 Hey, I'm Mohit Tiwari
+
+### **Full-Stack Developer & Cloud Native Enthusiast**
 
 <img src="https://komarev.com/ghpvc/?username=Mohit4289&label=Profile%20Views&color=1F6FEB&style=for-the-badge" alt="Profile Views" />
 
