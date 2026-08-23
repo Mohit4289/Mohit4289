@@ -8,7 +8,14 @@
 
 <img src="https://komarev.com/ghpvc/?username=Mohit4289&label=Profile%20Views&color=1F6FEB&style=for-the-badge" alt="Profile Views" />
 
-[Bio](#-the-path-of-the-sword-a-developers-reckoning) • [Stack](#-the-arsenal-battle-gear) • [Project](#-featured-project) • [Trophies](#-trophy-case) • [Stats](#-performance-badges) • [Connect](#-forge-connections)
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Opportunities" />
+  <a href="https://raw.githubusercontent.com/Mohit4289/Mohit4289/main/mohitiwari-cv.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download-1F6FEB?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download Resume" />
+  </a>
+</p>
+
+[Bio](#-the-path-of-the-sword-a-developers-reckoning) • [Experience](#-experience-timeline) • [Stack](#-the-arsenal-battle-gear) • [Project](#-featured-project) • [Trophies](#-trophy-case) • [Stats](#-performance-badges) • [Connect](#-forge-connections)
 
 ---
 
@@ -32,6 +39,20 @@
 </td>
   </tr>
 </table>
+
+---
+
+### 📜 EXPERIENCE TIMELINE
+
+| Role | Company | Duration |
+|---|---|---|
+| **Senior Frontend Engineer** | Astroverse (Remote) | Nov 2025 – Present |
+| FullStack Engineer | CodaBot (Remote) | May 2025 – Oct 2025 |
+| Frontend Engineer | Astroverse (Remote) | Dec 2024 – Apr 2025 |
+
+- 🎓 Building a scalable LMS at Astroverse — 2+ user roles, 10+ responsive UI components, cross-functional delivery with backend/design/QA
+- ⚙️ Shipped the CodaBot frontend and set up CI/CD with GitHub Actions, cutting deployment time by **65%**
+- 🎨 Led UI/UX for the Astroverse company site and its HubSpot/SendInBlue integration
 
 ---
 
