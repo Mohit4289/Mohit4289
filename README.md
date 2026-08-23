@@ -2,25 +2,25 @@
 
 # 👋 Hey, I'm Mohit Tiwari
 
-### **Senior Frontend Engineer & Cloud Native Enthusiast**
+### **Full-Stack Developer & Cloud Native Enthusiast**
 
 ---
 
 ### ⚔️ THE PATH OF THE SWORD: A DEVELOPER'S RECKONING
 
-<table align="center">
+<table align="center" style="border: none;">
   <tr>
     <td align="center" width="50%">
-      <img src="assets/zoro1.jpg" alt="Anime Art" width="100%" />
+      <img src="assets/zoro1.jpg" alt="Zoro" width="100%" style="border-radius: 8px;" />
     </td>
     <td width="50%">
       <h3>⚡ Quick Bio</h3>
       <ul>
-        <li>💼 <strong>Senior Frontend Engineer</strong> @ Astroverse (Remote)</li>
-        <li>🚀 Built <strong>CarboLedger</strong>, an enterprise SaaS saving clients <strong>$300k/yr</strong></li>
-        <li>🧠 Strong in <strong>Go, TypeScript, React/Next.js & Node.js</strong></li>
-        <li>☁️ <strong>AWS, Docker & Kubernetes</strong> — cut deploy time by 65% with CI/CD</li>
-        <li>🎓 BSc IT @ Mumbai University (CGPA 8.4/10) · 5+ freelance projects shipped</li>
+        <li>🌱 2+ Years Professional Experience</li>
+        <li>💻 Currently building high-performance web apps</li>
+        <li>☁️ Working heavily with <strong>Go, Python, and React</strong></li>
+        <li>⚙️ Navigating Linux environments & DevOps</li>
+        <li>🎯 Goal: Constantly learning and leveling up</li>
       </ul>
     </td>
   </tr>
@@ -32,17 +32,19 @@
 
 **Frontend**<br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" />
 </a>
 
+<br><br>
 **Backend**<br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=go,nodejs,express,graphql,postgres,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=go,python,java,c,nodejs,mysql" />
 </a>
 
+<br><br>
 **Tools & DevOps**<br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,aws,githubactions" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,docker,git,github" />
 </a>
 
 ---
@@ -86,7 +88,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmd0MG9hNDlvamtxdjlxcDd5eXFweGdiNm14aWJjb3l5Nmp4aHpvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jnAP1hq3Vr2vADLWtx/giphy.gif" width="400" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmd0MG9hNDlvamtxdjlxcDd5eXFweGdiNm14aWJjb3l5Nmp4aHpvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jnAP1hq3Vr2vADLWtx/giphy.gif" alt="Footer GIF" width="400" style="border-radius: 8px;" />
 </p>
 
 </div>
