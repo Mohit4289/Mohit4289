@@ -11,7 +11,7 @@
 <table align="center">
   <tr>
     <td align="center" width="45%">
-      <img src="assets/zoro1.jpg" alt="Zoro" width="100%" style="border-radius: 12px;" />
+      <img src="assets/guts.gif" alt="Guts" width="100%" style="border-radius: 12px;" />
     </td>
     <td width="55%" valign="top">
 
@@ -37,11 +37,11 @@
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=go,python,java,c,nodejs,mysql" />
+<img src="https://skillicons.dev/icons?i=go,python,nodejs,express,graphql,postgres,mongodb,redis" />
 
 **Tools & DevOps**
 
-<img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git,github,linux" />
 
 ---
 
