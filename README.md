@@ -129,7 +129,7 @@
   <a href="https://mohit-s-protfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://leetcode.com/u/HardCoder404/">
+  <a href="https://leetcode.com/u/Mohitt03/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
